@@ -18,7 +18,7 @@ const SkillsSection = () => {
           </div>
           <div className="mb-12">
             <h3 className="text-xl font-semibold text-white mb-4">AlgoUniversity</h3>
-            <p className="text-gray-300 mb-2">Nov 2023 - Apr 2024</p>
+            <p className="text-gray-300 mb-2">Dec 2023 - May 2024</p>
             <p className="text-gray-300 mb-4">Software Development Externship</p>
             <ul className="list-disc list-inside mb-4">
               <li className="text-gray-300 mb-2">Developed a secure online judge platform using MongoDB, NodeJS, and Express for the backend.</li>
