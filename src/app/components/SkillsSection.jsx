@@ -10,25 +10,24 @@ const SkillsSection = () => {
             <p className="text-gray-300 mb-2">Aug 2021 - Nov 2023</p>
             <p className="text-gray-300 mb-4">System Engineer | Bengaluru, India</p>
             <ul className="list-disc list-inside mb-4">
-              <li className="text-gray-300 mb-2">Developed and managed Computer Telephony Integration (CTI) connector for PwC contact center, using React and Redux for State Management and Jest for the testing process.</li>
-              <li className="text-gray-300 mb-2">Achieved a remarkable 40% reduction in SLA breaches by leveraging caching mechanisms and handling asynchronous operations.</li>
-              <li className="text-gray-300 mb-2">Implemented RESTful APIs and React to seamlessly integrate with Voice over IP services, automating call screen pop-ups and reducing call handling time by 30%.</li>
+              <li className="text-gray-300 mb-2">Developed and managed responsive Telephony application and their CRM Integration using React, Redux and JavaScript, delivering performant user interfaces.</li>
+              <li className="text-gray-300 mb-2">Achieved a 45% decrease in SLA breaches through advanced caching strategies and asynchronous operations handling with Redux Thunk for efficient state management.</li>
+              <li className="text-gray-300 mb-2">Employed best frontend practices like lazy loading and code splitting techniques to achieve significant improvements in page load times, enhancing performance metrics by 40%</li>
               <li className="text-gray-300">Developed a real-time dashboard application using React, Redux, and RESTful APIs to fetch and display live call data, enhancing operational efficiency and decision-making processes.</li>
+              <li className="text-gray-300">Collaborated closely with cross-functional teams including designers and backend developers to iterate on features, conduct code reviews, and implement improvements based on user feedback and analytics.</li>
             </ul>
           </div>
           <div className="mb-12">
             <h3 className="text-xl font-semibold text-white mb-4">AlgoUniversity</h3>
-            <p className="text-gray-300 mb-2">Dec 2023 - May 2024</p>
+            <p className="text-gray-300 mb-2">Dec 2023 - Jun 2024</p>
             <p className="text-gray-300 mb-4">Software Development Externship</p>
             <ul className="list-disc list-inside mb-4">
-              <li className="text-gray-300 mb-2">Developed a secure online judge platform using MongoDB, NodeJS, and Express for the backend.</li>
-              <li className="text-gray-300 mb-2">Implemented React for the frontend and utilized Redux for efficient state management.</li>
-              <li className="text-gray-300 mb-2">Integrated code compilation mechanisms for seamless submission, compilation, and judging of code submissions, resulting in improved execution efficiency.</li>
-              <li className="text-gray-300 mb-2">Implemented stringent user authentication protocols using JSON Web Tokens (JWT) for secure access.</li>
-              <li className="text-gray-300">Leveraged Docker for containerization to ensure isolated code execution, resulting in improved platform stability and performance.</li>
+              <li className="text-gray-300 mb-2">Developed a secure online judge platform using MongoDB, NodeJs, Express and RESTful APIs for backend, and React for frontend. Designed and implemented scalable architecture for efficient code judgement.</li>
+              <li className="text-gray-300 mb-2">Integrated code compilation mechanisms and comprehensive test cases for submission and evaluation processes, enhancing platform reliability and code assessment.</li>
+              <li className="text-gray-300 mb-2">Implemented Docker for secure isolation and execution of user-submitted code, ensuring platform stability and managing dependencies effectively.</li>
+              <li className="text-gray-300 mb-2">Implemented a robust user authentication system using JSON Web Tokens (JWT) to authenticate and authorize users securely. Utilized Redux for the State Management</li>
             </ul>
           </div>
-          
         </div>
       </section>
     );
